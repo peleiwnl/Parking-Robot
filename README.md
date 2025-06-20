@@ -1,6 +1,6 @@
 # 🚗 Autonomous Parking Robot (mBot2)
 
-This project showcases a fully autonomous parking robot system developed using the **mBot2** and programmed in **Python**. Designed as part of the *CS-279 Intelligent Robotics* module, the robot simulates a real-world self-parking car, utilizing mBot2’s full sensor suite and hardware capabilities to navigate a car park, detect parking spaces, and respond to real-time environmental inputs.
+This project showcases a fully autonomous parking robot system developed using the **mBot2** and programmed in **Python**. The robot simulates a real-world self-parking car, utilizing mBot2’s full sensor suite and hardware capabilities to navigate a car park, detect parking spaces, and respond to real-time environmental inputs.
 
 ---
 
